@@ -1,4 +1,4 @@
-**Recreated a webpage using html and css.**
+###Recreated a webpage using html and css.###
 
 Skills practiced
 
@@ -11,7 +11,7 @@ Skills practiced
 2. css
   * use of css for all non syntax properties of webpage
   * coding different properties of selectors
-  
+
 3. git
   * practiced creating and organizing project
   * regular updates at each sub goal
