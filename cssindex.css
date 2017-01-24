@@ -1,0 +1,57 @@
+#logo {
+  padding: 4px;
+  border: 1px solid white;
+  font-weight: bold;
+  font-family: Verdana, Geneva,sans-serif;
+  font-size: 10pt;
+  color: white;
+  background: darkgrey;
+}
+
+#in{
+  font-weight: bold;
+      font-family: Verdana, Geneva,sans-serif;
+  font-size: 10pt;
+  background: darkgrey;
+}
+
+.login{
+  background: darkgrey;
+      font-family: Verdana, Geneva,sans-serif;
+  font-size: 10pt;
+  text-align: right;
+  padding: 16px 5px 16px 500px
+}
+
+.small{
+  font-size: 8pt;
+}
+
+#main_list{
+  background: lightgrey;
+
+  font-family: Verdana, Geneva,      sans-serif;
+  font-size: 10pt;
+}
+
+a {
+  text-decoration: none;
+  color: unset;
+}
+
+.menu {
+    text-decoration: none;
+  color: unset;
+    font-family: Verdana, Geneva,    sans-serif;
+  font-size: 10pt;
+  background: darkgrey;
+  padding: 16px;
+}
+
+.border{
+  border: 1px solid grey;
+}
+
+.center{
+  margin: 5px 150px
+}
